@@ -11,3 +11,6 @@ After downloading, unzipping and using the provided .exe:
 
 If you've already launched the program and have set up a position for your chat before, simply press "Load from file" and it will load the last position you've set up, after which you can close the window and it will be running in the background.
 To stop the program, close the command prompt-like window.
+
+NOTE1: It is important that you do NOT close the command prompt window to keep it running in the background.
+NOTE2: It is important to close all other windows associated with the program for it to begin working.
